@@ -1,0 +1,5 @@
+Credentials cache: API:00ECACEE-2BC3-4440-8A7B-7402DF9E8160
+        Principal: faacar@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Feb  9 13:40:46 2022  Feb  9 23:40:46 2022  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
